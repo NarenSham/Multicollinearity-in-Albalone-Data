@@ -2,11 +2,7 @@
 Anomalies in Data Analysis
 
 ---
-title: "Albalone Data Set Analysis"
-author: "Narendran Shamasundara(shamasnn)"
-date: "2/24/2018"
-output: html_document
----
+
 
 ```{r, include=FALSE}
 require(corrplot)
